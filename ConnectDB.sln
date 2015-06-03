@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectDB", "ConnectDB\ConnectDB.csproj", "{5157E620-A39A-4676-A198-A4A484A94BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectDB.SQLite", "ConnectDB.SQLite\ConnectDB.SQLite.csproj", "{08BD2E37-1D70-4BAB-A1E4-9AE3FCD5A499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectDB.XML", "ConnectDB.XML\ConnectDB.XML.csproj", "{AB7F6EC0-4BE5-431A-B1DE-4F660D0B2384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectDB.SQLServer", "ConnectDB.SQLServer\ConnectDB.SQLServer.csproj", "{FFC3672A-8AC8-4FD4-8D02-5C374BCEC6CC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://perrosen.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConnectDB.SQLite\\ConnectDB.SQLite.csproj
+		SccProjectName1 = ConnectDB.SQLite
+		SccLocalPath1 = ConnectDB.SQLite
+		SccProjectUniqueName2 = ConnectDB.SQLServer\\ConnectDB.SQLServer.csproj
+		SccProjectName2 = ConnectDB.SQLServer
+		SccLocalPath2 = ConnectDB.SQLServer
+		SccProjectUniqueName3 = ConnectDB.XML\\ConnectDB.XML.csproj
+		SccProjectName3 = ConnectDB.XML
+		SccLocalPath3 = ConnectDB.XML
+		SccProjectUniqueName4 = ConnectDB\\ConnectDB.csproj
+		SccProjectName4 = ConnectDB
+		SccLocalPath4 = ConnectDB
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5157E620-A39A-4676-A198-A4A484A94BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5157E620-A39A-4676-A198-A4A484A94BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5157E620-A39A-4676-A198-A4A484A94BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5157E620-A39A-4676-A198-A4A484A94BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08BD2E37-1D70-4BAB-A1E4-9AE3FCD5A499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BD2E37-1D70-4BAB-A1E4-9AE3FCD5A499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BD2E37-1D70-4BAB-A1E4-9AE3FCD5A499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BD2E37-1D70-4BAB-A1E4-9AE3FCD5A499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7F6EC0-4BE5-431A-B1DE-4F660D0B2384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7F6EC0-4BE5-431A-B1DE-4F660D0B2384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7F6EC0-4BE5-431A-B1DE-4F660D0B2384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7F6EC0-4BE5-431A-B1DE-4F660D0B2384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC3672A-8AC8-4FD4-8D02-5C374BCEC6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC3672A-8AC8-4FD4-8D02-5C374BCEC6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC3672A-8AC8-4FD4-8D02-5C374BCEC6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC3672A-8AC8-4FD4-8D02-5C374BCEC6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
